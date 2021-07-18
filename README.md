@@ -1,7 +1,11 @@
 # GreenApp - Demo
 Mobile app ed-game
 
-A project that made togheter with the Ministry of Education
+A project that made togheter with the Ministry of Education.
+
+The purpose of the app is to smelt refueling with smart fuel cards. 
+The more liters of carbon dioxide a user saves, the more green coins he will accumulate that will buy him a variety of benefits.
+The app actually encourages collaborative transportation and raising awareness of the environment and the importance of ecology.
 
 # Download APK (for android users) here: https://drive.google.com/file/d/1W80m_9FKTJTW-QJ4T0q7M5YSahcN_kU3/view?usp=sharing
 # Play Store status: in proccess..
